@@ -2,8 +2,9 @@
 
 int main() {
 
-       printf("Hello, World in Git");
-       printf("Im Janny");
+       print("Hello, World in Git");
+       print("I'm Anthony")
 
 
+  
 }
