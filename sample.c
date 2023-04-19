@@ -1,6 +1,9 @@
 #include <stdio.h>
 
 int main() {
-        printf("Hello, World in Git");
-	printf("Im Iyog");
+
+       printf("Hello, World in Git");
+       printf("Im Janny");
+
+
 }
