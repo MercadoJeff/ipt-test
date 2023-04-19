@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-       print("Hello, World in Git");
-
+        printf("Hello, World in Git");
+	printf("Im Iyog");
 }
