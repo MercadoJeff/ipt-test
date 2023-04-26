@@ -9,7 +9,12 @@ int main() {
        
        print("Im Iyog");
        
-       print("sample for stash -edited")
+
+       print("sample for stash -edited");
+
+
+       print("sample for stash");
+       print("add new features");
 
 
 
